@@ -42,7 +42,7 @@ Finally, we return the biggest length in the memoized array.
 
 This approach works perfectly, but it is not the most efficient. Let us try a different approach.
 
-**O(n): n^2**
+**Time Complexity: O(n^2)**
 
 ### 2nd Apporach: Greedy Algorithm with Binary Search
 
@@ -67,7 +67,7 @@ We know by intuition and logical thinking that the longest increasing subsequenc
 
 Because of Binary Search, it has a faster time complexity than the first approach.
 
-**O(n): n(log n)**
+**Time Complexity: O(n log(n))**
 
 ## Instructions to Run the Code
 

@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.4"
+  },
+  "name": "amihan",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "npx tsx index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ps1": "npx tsx problem_set_1/palindrome_pairs.ts",
+    "ps2": "npx tsx problem_set_2/valid_parentheses.ts",
+    "ps3": "npx tsx problem_set_3/longest_increasing_subsequence.ts"
+  },
+  "author": "Ivan Woogue",
+  "license": "ISC",
+  "description": "My answeres to the 3 coding questions"
+}
